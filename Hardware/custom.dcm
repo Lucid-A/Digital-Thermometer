@@ -1,0 +1,97 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAP_CC0805
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CC56-12CGKWA
+D 4 digit 7 segment green LED, common cathode
+K display LED 7-segment
+F http://www.kingbright.com/attachments/file/psearch/000/00/00/CC56-12CGKWA(Ver.8A).pdf
+$ENDCMP
+#
+$CMP CH340N
+D USB to UART converter
+$ENDCMP
+#
+$CMP Crystal_SMD49S
+D Two pin crystal
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP LM1117-3.3
+D 800mA Low-Dropout Linear Regulator, 1.8V fixed output, SOT-223
+K linear regulator ldo fixed positive
+F http://www.ti.com/lit/ds/symlink/lm1117.pdf
+$ENDCMP
+#
+$CMP LM324D
+D Low-Power, Quad-Operational Amplifiers, DIP-14/SOIC-14/SSOP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/lm2902-n.pdf
+$ENDCMP
+#
+$CMP LM324N
+D Low-Power, Quad-Operational Amplifiers, DIP-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/lm2902-n.pdf
+$ENDCMP
+#
+$CMP RES_CR0805
+D Resistor
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP S9012
+D 0.7A Ic, 20V Vce, Low Voltage High Current PNP Transistor, TO-92
+K S8550 PNP Low Voltage High Current Transistor
+F http://www.unisonic.com.tw/datasheet/S8550.pdf
+$ENDCMP
+#
+$CMP S9013
+D 0.7A Ic, 20V Vce, Low Voltage High Current NPN Transistor, TO-92
+K S8050 NPN Low Voltage High Current Transistor
+F http://www.unisonic.com.tw/datasheet/S8050.pdf
+$ENDCMP
+#
+$CMP STM32F102C4Tx
+D ARM Cortex-M3 MCU, 16KB flash, 4KB RAM, 48MHz, 2-3.6V, 37 GPIO, LQFP-48
+K ARM Cortex-M3 STM32F1 STM32F102
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00210833.pdf
+$ENDCMP
+#
+$CMP STM32F102C6Tx
+D ARM Cortex-M3 MCU, 32KB flash, 6KB RAM, 48MHz, 2-3.6V, 37 GPIO, LQFP-48
+K ARM Cortex-M3 STM32F1 STM32F102
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00210833.pdf
+$ENDCMP
+#
+$CMP TL431LP
+D Shunt Regulator, TO-92
+K diode device regulator shunt
+F http://www.ti.com/lit/ds/symlink/tl431.pdf
+$ENDCMP
+#
+$CMP USB_B_Micro
+D USB Micro Type B connector
+K connector USB micro
+F ~
+$ENDCMP
+#
+$CMP XH-2A
+D Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP hdr1x4
+D Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+#End Doc Library
